@@ -1,5 +1,5 @@
 <img align="right" alt="coding" width="400" img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIwMTU4ZTEzMDA0OTdkMDAzYjFkMThlYTM5NDE0YmE5ZTNiOTlhYiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-# 💫 About Me:
+# 💫 About Me: <br>
 🔭 I’m currently working as Freelancer<br>👯 I’m looking to Organization to hire me <br>🌱 I’m currently learning On Upgrade my skills<br>💬 Ask me about Designing <br>⚡ Fun fact "I start every day with baajans to get into the right mindset."
 
 
